@@ -1,2 +1,3 @@
-# artificial-intelligence-assignments
-CSCI 585: Artificial Intelligence Assignments
+# Artificial Intelligence Assignments
+
+USC's CSCI 585: Artificial Intelligence Assignments (Terrible course, don't take it)
